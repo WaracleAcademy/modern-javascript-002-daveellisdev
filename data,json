@@ -1,0 +1,28 @@
+{
+"results": [
+  {
+    "id": "0",
+    "name": "british-gp",
+    "description": "Silverstone",
+    "laps": "52"
+  },
+  {
+    "id": "1",
+    "name": "german-gp",
+    "description": "Nurburgring",
+    "laps": "32"
+  },
+  {
+    "id": "2",
+    "name": "canadian-gp",
+    "description": "Montreal",
+    "laps": "55"
+  },
+  {
+    "id": "3",
+    "name": "brazilian-gp",
+    "description": "Interlagos",
+    "laps": "42"
+  }
+]
+}

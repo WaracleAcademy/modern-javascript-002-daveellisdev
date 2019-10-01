@@ -4,15 +4,26 @@
         <meta charset="utf-8">
         <title>F1 races</title>
     </head>
+    <header>
+        <h1>Title</h1>
+    </header>
     <body>
-        <ul>
-            <li>Silverstone</li>
-            <li>Hockenheim</li>
-            <li>Albert Park</li>
-            <li>Interlagos</li>
-        </ul>
+        <div id="primaryView>
+            <ul>
+                <li>Silverstone</li>
+                <li>Hockenheim</li>
+                <li>Albert Park</li>
+                <li>Interlagos</li>
+            </ul>   
+        </div>
         <script type="text/javascript">
-        console.log("This is JavaScript");
+                                      
+        const things = ['Silverstone', 'Hockenheim', 'Albert Park', 'Interlagos'];
+        const mainView = document.querySelector('#primaryView');
+                                      
+        mainView.innerHTML = `
+            <h2>Text</h2>
+        `;
         </script>
     </body>
 </html>

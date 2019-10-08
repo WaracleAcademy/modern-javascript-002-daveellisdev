@@ -1,6 +1,3 @@
-
-
 const thing = {
     property: 'test'
 };
-

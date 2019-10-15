@@ -60,4 +60,6 @@ typings/
 # next.js build output
 .next
 
-# I make changes? Yes. This is a comment for the sake of a comment. Woo! Woo!
+# parcel output and cache
+.cache/
+dist/

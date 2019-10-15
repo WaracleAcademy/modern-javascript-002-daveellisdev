@@ -27,5 +27,5 @@ for(let i=0; i < things.length; i++){
 content += '</ul>'
 
 // const things = ['Silverstone', 'Hockenheim', 'Albert Park', 'Interlagos'];
-                              
+// This is a comment for comitting. Ignore it.                              
 render(content);
